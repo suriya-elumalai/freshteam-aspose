@@ -48,7 +48,7 @@
 					<archive>
 						<manifest>
 							<mainClass>
-								freshteam.PDFConversion
+								freshteam.Usage
 							</mainClass>
 						</manifest>
 					</archive>
